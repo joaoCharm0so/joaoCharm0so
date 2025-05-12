@@ -1,16 +1,30 @@
-## Hi there 👋
+ Olá, eu sou Joao Victor 👋
+
+Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologia e programação. Atualmente, sou Aluno na instituição Senai estou na busca do meu primeiro emprego
+
+## Sobre Mim
+
+- 🌱 Atualmente estou aprendendo **Dart** e **Flutter**.
+- 👯 Estou procurando colaborar em projetos open-source e na criação de projetos próprios.
+- 💬 Pergunte-me sobre **Dart**, **Flutter**, e **Python**.
+- 📫 Como me encontrar: [joao.v.lopes31@aluno.senai.br](mailto:joao.v.lopes31@aluno.senai.br)
+
+## Habilidades
+
+- **Linguagens de Programação:** Dart, Python
+- **Frameworks:** Flutter, Flask
+- **Ferramentas:** Git, AWS
 
 <!--
-**joaoCharm0so/joaoCharm0so** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Projetos em Destaque
 
-Here are some ideas to get you started:
+### [Projeto 1](https://github.com/seu-usuario/projeto1)
+Descrição breve do projeto 1.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### [Projeto 2](https://github.com/seu-usuario/projeto2)
+Descrição breve do projeto 2.
 -->
+
+## Estatísticas do GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=GetuliovmSantos&show_icons=true&theme=radical)
