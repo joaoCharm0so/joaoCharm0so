@@ -4,16 +4,16 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologi
 
 ## Sobre Mim
 
-- 🌱 Atualmente estou aprendendo **Dart** e **Flutter**.
+- 🌱 Atualmente estou aprendendo **java** e **node**.
 - 👯 Estou procurando colaborar em projetos open-source e na criação de projetos próprios.
-- 💬 Pergunte-me sobre **Dart**, **Flutter**, e **Python**.
+- 💬 Pergunte-me sobre **java**, **node**,bootstrap.
 - 📫 Como me encontrar: [joao.v.lopes31@aluno.senai.br](mailto:joao.v.lopes31@aluno.senai.br)
 
 ## Habilidades
 
-- **Linguagens de Programação:** Dart, Python
-- **Frameworks:** Flutter, Flask
-- **Ferramentas:** Git, AWS
+- **Linguagens de Programação:** java, node, bootstrap
+- **Frameworks:** java, node, bootstrap
+- **Ferramentas:** Git
 
 <!--
 ## Projetos em Destaque
@@ -27,4 +27,4 @@ Descrição breve do projeto 2.
 
 ## Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=GetuliovmSantos&show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=JoaoVictor&show_icons=true&theme=radical)
